@@ -1,4 +1,4 @@
-# 송영집 (Song Yeongjip)
+# 송영집 (Song Yeongjip)-6D Object Pose Estimation via 3DGS-based Joint Shape-Pose Refinement
 
 **시스템경영공학과 4학년 | 성균관대학교 (SKKU)**  
 📧 yeongjibs@gmail.com | 🔗 [GitHub](https://github.com/zero-zip)
